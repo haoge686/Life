@@ -1,0 +1,2 @@
+Application Version: ${nts.version}
+Spring Boot Version: ${spring-boot.version}
